@@ -1,4 +1,4 @@
-# Movie Search Application 🎬
+# Aplicação para Busca de Filmes 🎬
 
 ## Descrição do Projeto
 
